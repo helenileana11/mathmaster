@@ -1,1 +1,1 @@
-este es un archivo creado por propietario
+se corrigieron errores en la logica de la aplicación
